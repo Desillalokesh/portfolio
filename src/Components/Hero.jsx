@@ -81,7 +81,7 @@ const Hero = () => {
                                 className="relative mb-6"
                             >
                                 <span className="bg-gradient-to-r from-pink-400 via-purple-500 to-blue-500 bg-clip-text text-3xl tracking-tighter text-transparent font-semibold">
-                                    Fullstack Developer - Social Bytes
+                                    Web & Mobile Developer @ Social Bytes | Scalable & User-Focused
                                 </span>
                             </motion.div>
 

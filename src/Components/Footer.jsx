@@ -46,14 +46,13 @@ const Footer = () => {
                             </div>
                             
                             <h2 className="text-3xl font-bold mb-4 bg-gradient-to-r from-gray-100 via-blue-200 to-purple-300 bg-clip-text text-transparent">
-                                Lokesh Desilla
+                                Lokesh
                             </h2>
                             
                             <div className="w-16 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto md:mx-0 mb-4 rounded-full" />
                             
                             <p className="text-white-300 text-lg leading-relaxed max-w-md">
-                                Hi there! I'm a Full Stack Developer with a passion for user-friendly web applications and a strong foundation in FrontEnd & BackEnd by using beautiful frameworks. I enjoy learning new tech, collaborating, and staying active.
-                            </p>
+Hi there! I’m a Web & Mobile Developer passionate about building scalable, user-friendly applications. With expertise across frontend and backend frameworks, I enjoy exploring new technologies, collaborating on ideas, and turning concepts into impactful digital solutions.                            </p>
                         </motion.div>
 
                         {/* Social Links Section */}

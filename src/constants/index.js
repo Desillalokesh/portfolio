@@ -4,13 +4,9 @@ import mange from '../assets/projects/mange.jpg'
 import music from '../assets/projects/music.jpg'
 import sport from '../assets/projects/sport.jpg'
 
-export const HERO_CONTENT = `I’m a passionate Full Stack Developer  with hands-on experience in React,
- Tailwind CSS, and Django REST APIs. Passionate about building responsive UIs, scalable backends, 
- and seamless API integrations.`;
+export const HERO_CONTENT = `I’m a passionate Web and Mobile Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
 
-export const ABOUT_TEXT = `I craft robust, scalable web applications, blending modern
- frontend design with powerful backend logic. Skilled in React, Django,MERN Stack, REST APIs, 
- and databases, I turn ideas into high-performing, user-focused digital solutions.
+export const ABOUT_TEXT = `I’m a passionate Web and Mobile Developer who builds robust, scalable applications that seamlessly connect design and functionality. With expertise in React, React Native, Django, MERN Stack, Tailwind CSS, REST APIs, and PostgreSQL, I craft high-performing digital solutions that prioritize user experience. Driven by curiosity and innovation, I thrive on turning ideas into impactful products that bridge technology and real-world needs.
 
 `;
 
@@ -18,7 +14,7 @@ export const EDUCATION = [
   {
     institution: "Social Bytes",
     degree: "Software Engineer",
-    fieldOfStudy: "React Developer",
+    fieldOfStudy: "Developer",
     duration: "2025",
    
   },

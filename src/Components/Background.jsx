@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TechBackground = () => {
+const Background = () => {
     return (
         <div className="fixed inset-0 overflow-hidden -z-10 pointer-events-none bg-black">
             {/* Matrix-style digital rain */}
@@ -231,4 +231,4 @@ const TechBackground = () => {
     );
 };
 
-export default TechBackground;
+export default Background;
