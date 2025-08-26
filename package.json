@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://Desillalokesh.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
