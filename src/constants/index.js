@@ -6,7 +6,13 @@ import sport from '../assets/projects/sport.jpg'
 
 export const HERO_CONTENT = `I’m a passionate Web and Mobile Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
 
-export const ABOUT_TEXT = `I’m a passionate Web and Mobile Developer who builds robust, scalable applications that seamlessly connect design and functionality. With expertise in React, React Native, Django, MERN Stack, Tailwind CSS, REST APIs, and PostgreSQL, I craft high-performing digital solutions that prioritize user experience. Driven by curiosity and innovation, I thrive on turning ideas into impactful products that bridge technology and real-world needs.
+export const ABOUT_TEXT = `Hi! I’m Lokesh, a passionate Web & Mobile Developer at Social Bytes. I specialize in building scalable, responsive, and high-performing applications that bridge clean design with robust functionality.
+
+With expertise in React, React Native, TailwindCSS, Django, and MERN Stack, I enjoy crafting seamless digital experiences that prioritize user engagement. I thrive on solving challenging problems, learning new technologies, and turning innovative ideas into real-world applications.
+
+When I’m not coding, I explore UI/UX trends, mobile development innovations, and open-source contributions to stay at the forefront of the tech world.
+
+💡 Core Skills: React | React Native | TailwindCSS | Django | MERN Stack | REST APIs | PostgreSQL | Mobile App Development
 
 `;
 
@@ -14,7 +20,7 @@ export const EDUCATION = [
   {
     institution: "Social Bytes",
     degree: "Software Engineer",
-    fieldOfStudy: "Developer",
+    fieldOfStudy: "Web & Mobile Developer",
     duration: "2025",
    
   },
