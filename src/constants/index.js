@@ -4,9 +4,9 @@ import mange from '../assets/projects/mange.jpg'
 import music from '../assets/projects/music.jpg'
 import sport from '../assets/projects/sport.jpg'
 
-export const HERO_CONTENT = `I’m a passionate Web and Mobile Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
+export const HERO_CONTENT = `I’m a passionate Junior Fullstack Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
 
-export const ABOUT_TEXT = `Hi! I’m Lokesh, a passionate Web & Mobile Developer at Social Bytes. I specialize in building scalable, responsive, and high-performing applications that bridge clean design with robust functionality.
+export const ABOUT_TEXT = `Hi! I’m Lokesh, a passionate Junior Fullstack Developer at Socialbytes. I specialize in building scalable, responsive, and high-performing applications that bridge clean design with robust functionality.
 
 With expertise in React, React Native, TailwindCSS, Django, and MERN Stack, I enjoy crafting seamless digital experiences that prioritize user engagement. I thrive on solving challenging problems, learning new technologies, and turning innovative ideas into real-world applications.
 
@@ -18,9 +18,9 @@ When I’m not coding, I explore UI/UX trends, mobile development innovations, a
 
 export const EDUCATION = [
   {
-    institution: "Social Bytes",
+    institution: "Socialbytes",
     degree: "Software Engineer",
-    fieldOfStudy: "Web & Mobile Developer",
+    fieldOfStudy: "Junior Fullstack Developer",
     duration: "2025",
    
   },

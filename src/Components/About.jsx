@@ -201,7 +201,7 @@ const About = () => {
                                         <div className="font-mono text-xs text-gray-500 space-y-1">
                                             <div>uptime: 24/7 ⚡</div>
                                             <div>status: ready_for_collaboration</div>
-                                            <div>mode: Web & Mobile Developer</div>
+                                            <div>mode: Junior Fullstack Developer</div>
                                         </div>
                                     </div>
                                 </div>

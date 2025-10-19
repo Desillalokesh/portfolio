@@ -160,7 +160,7 @@ const Hero = () => {
                                     <div className="absolute bottom-5 left-5 bg-gray-900/90 px-3 py-2 rounded border border-cyan-400/30 font-mono text-xs text-cyan-400 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                                         <div>ID: DEV_001</div>
                                         <div>STATUS: ONLINE</div>
-                                        <div>SKILL: Web & Mobile Developer</div>
+                                        <div>SKILL: Junior Fullstack Developer</div>
                                     </div>
                                 </div>
 
@@ -228,7 +228,7 @@ const Hero = () => {
                                 <div className="bg-gray-900/80 border border-purple-500/30 rounded-lg p-4">
                                     <div className="font-mono text-purple-400 text-sm mb-1">role:</div>
                                     <span className="bg-gradient-to-r from-cyan-400 via-green-500 to-purple-500 bg-clip-text text-2xl lg:text-3xl tracking-tighter text-transparent font-semibold font-mono">
-                                        Web & Mobile Developer @ SocialBytes 
+                                        Junior Fullstack Developer @Socialbytes 
                                     </span>
                                 </div>
                             </motion.div>

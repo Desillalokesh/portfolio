@@ -167,7 +167,7 @@ const Footer = () => {
                             <div className="relative bg-gray-800/60 border border-green-500/30 rounded-lg p-4 font-mono text-sm">
                                 <div className="text-green-400 mb-2">{'// About Developer'}</div>
                                 <p className="text-gray-300 leading-relaxed">
-                                    Hi there! I'm a Web & Mobile Developer passionate about building scalable, user-friendly applications. With expertise across frontend and backend frameworks, I enjoy exploring new technologies, collaborating on ideas, and turning concepts into impactful digital solutions.
+                                    Hi there! I'm a Junior Fullstack Developer passionate about building scalable, user-friendly applications. With expertise across frontend and backend frameworks, I enjoy exploring new technologies, collaborating on ideas, and turning concepts into impactful digital solutions.
                                 </p>
                                 <div className="text-gray-400 mt-2">{'}'}</div>
                             </div>
