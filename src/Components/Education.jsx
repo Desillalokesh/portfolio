@@ -154,9 +154,9 @@ const Education = () => {
                     
                     {/* Title with tech styling */}
                     <div className="relative ml-8">
-                        <div className="font-mono text-cyan-400 text-sm mb-1">{'// Educational Journey'}</div>
+   
                         <span className="text-2xl font-bold bg-gradient-to-r from-white via-cyan-200 to-green-400 bg-clip-text text-transparent font-mono">
-                            {'<'}Campus_To_Career{' />'}
+                            {'<'}Software_Career{' />'}
                         </span>
                         <span className="inline-block w-2 h-6 bg-cyan-400 ml-2 animate-pulse" />
                     </div>

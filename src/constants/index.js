@@ -24,13 +24,7 @@ export const EDUCATION = [
     duration: "2025",
    
   },
-  {
-    institution: "Sri Venkateswara College Of Engineering & Technology",
-    degree: "Bachelor of Technology",
-    fieldOfStudy: "Electrical & Electronics Engineering",
-    duration: "2024",
-    cgpa: 8.1
-  },
+  
   
  
 ];
