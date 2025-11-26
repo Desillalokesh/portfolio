@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logo from '../assets/personal/pic.jpg'
+import logo from '../assets/personal/pic.webp'
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 
@@ -37,8 +37,11 @@ const Navbar = () => {
                     <a href="/" aria-label='Home' className="flex items-center">
                         <img 
                             src={logo} 
-                            alt="logo" 
+                            alt="Lokesh Portfolio Logo - Home"
                             className="w-12 h-12 rounded-full border border-neutral-700 hover:border-purple-500/50 transition-colors duration-300 object-cover"
+                            width="48"
+                            height="48"
+                            loading="lazy"
                         />
                     </a>
 

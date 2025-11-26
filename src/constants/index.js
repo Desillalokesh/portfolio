@@ -1,8 +1,8 @@
-import shop from '../assets/projects/shop.jpg'
-import data from '../assets/projects/data.jpg'
-import mange from '../assets/projects/mange.jpg'
-import music from '../assets/projects/music.jpg'
-import sport from '../assets/projects/sport.jpg'
+import shop from '../assets/projects/shop.webp'
+import data from '../assets/projects/data.webp'
+import mange from '../assets/projects/mange.webp'
+import music from '../assets/projects/music.webp'
+import sport from '../assets/projects/sport.webp'
 
 export const HERO_CONTENT = `I’m a passionate Junior Fullstack Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
 

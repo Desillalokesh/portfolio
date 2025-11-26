@@ -16,15 +16,17 @@ const App = () => {
       <div>
         <Background/>
       </div>
-      <div className="container mx-auto px-0">
-        <Navbar />
-        <Hero />
-        <About />
-        <Techno />
-        <Projects />
-        <Contact />
-        <Footer/>
-      </div>
+      <main>
+        <div className="container mx-auto px-0">
+          <Navbar />
+          <Hero />
+          <About />
+          <Techno />
+          <Projects />
+          <Contact />
+          <Footer/>
+        </div>
+      </main>
     </div>
   );
 };

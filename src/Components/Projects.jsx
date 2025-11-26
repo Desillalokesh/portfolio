@@ -44,8 +44,11 @@ const Projects = () => {
 
                   <img
                     src={project.image}
-                    alt={project.title}
+                    alt={`${project.title} - ${project.description.substring(0, 100)}...`}
                     className="rounded-xl w-full h-auto transition-transform duration-300 group-hover:scale-105"
+                    width="400"
+                    height="300"
+                    loading="lazy"
                   />
                 </div>
               </div>

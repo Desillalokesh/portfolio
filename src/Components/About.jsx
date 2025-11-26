@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutme from '../assets/personal/aboutme.jpg'
+import aboutme from '../assets/personal/aboutme.webp'
 import { motion } from 'framer-motion'
 import { ABOUT_TEXT } from '../constants'
 import Education from './Education'
@@ -42,8 +42,11 @@ const About = () => {
 
                                 <img
                                     src={aboutme}
-                                    alt="About Lokesh"
+                                    alt="About Lokesh - Fullstack Developer background and experience"
                                     className="rounded-xl w-full max-w-md h-auto"
+                                    width="400"
+                                    height="400"
+                                    loading="lazy"
                                 />
                             </div>
                         </div>

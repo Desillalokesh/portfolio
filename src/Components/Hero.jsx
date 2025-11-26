@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../assets/personal/profile.jpg";
+import profile from "../assets/personal/profile.webp";
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -45,8 +45,11 @@ const Hero = () => {
 
                                 <img
                                     src={profile}
-                                    alt="Lokesh"
+                                    alt="Lokesh - Junior Fullstack Developer"
                                     className="rounded-xl w-full max-w-md h-auto"
+                                    width="400"
+                                    height="400"
+                                    fetchpriority="high"
                                 />
                             </div>
                         </motion.div>
