@@ -50,6 +50,7 @@ const Hero = () => {
                                     width="400"
                                     height="400"
                                     fetchpriority="high"
+                                    decoding="async"
                                 />
                             </div>
                         </motion.div>
