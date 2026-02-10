@@ -361,6 +361,36 @@ const Techno = () => {
                     Grafana
                 </div> */}
                 </motion.div>
+
+                {/* Apache Superset */}
+                <motion.div
+                variants={iconvariants(4.5)}
+                initial="initial"
+                animate="animate"
+                className="p-4 relative group"
+                >
+                <div className="text-[3.5rem] text-red-500 flex items-center justify-center w-20 h-20">
+                    <div className="font-bold text-4xl">Ⓢ</div>
+                </div>
+                <div className="absolute -bottom-8 left-1/2 transform -translate-x-1/2 bg-black text-white px-2 py-1 rounded text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">
+                    Apache Superset
+                </div>
+                </motion.div>
+
+                {/* Looker Studio */}
+                <motion.div
+                variants={iconvariants(5)}
+                initial="initial"
+                animate="animate"
+                className="p-4 relative group"
+                >
+                <div className="text-[3.5rem] text-blue-500 flex items-center justify-center w-20 h-20">
+                    <div className="text-4xl">📊</div>
+                </div>
+                <div className="absolute -bottom-8 left-1/2 transform -translate-x-1/2 bg-black text-white px-2 py-1 rounded text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">
+                    Looker Studio
+                </div>
+                </motion.div>
             </motion.div>
         </div>
     );

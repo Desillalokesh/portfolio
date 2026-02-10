@@ -4,15 +4,13 @@ import mange from '../assets/projects/mange.webp'
 import music from '../assets/projects/music.webp'
 import sport from '../assets/projects/sport.webp'
 
-export const HERO_CONTENT = `I’m a passionate Junior Fullstack Developer dedicated to crafting engaging digital experiences, scalable systems, and seamless solutions. With a strong focus on innovation and growth, I build products that not only solve problems but also create meaningful connections between technology and users.`;
+export const HERO_CONTENT = `I’m a passionate Junior Software Engineer focused on building engaging digital experiences, scalable systems, and seamless solutions. Driven by innovation and continuous growth, I create products that solve real problems and deliver meaningful user impact.`;
 
-export const ABOUT_TEXT = `Hi! I’m Lokesh, a passionate Junior Fullstack Developer at Socialbytes. I specialize in building scalable, responsive, and high-performing applications that bridge clean design with robust functionality.
+export const ABOUT_TEXT = `Hi! I’m Lokesh, a passionate Junior Software Developer at Socialbytes. I focus on building scalable, responsive, and high-performing web and mobile applications, along with data-driven dashboards that turn complex data into actionable insights. I enjoy bridging clean design with robust functionality across products.
 
-With expertise in React, React Native, TailwindCSS, Django, and MERN Stack, I enjoy crafting seamless digital experiences that prioritize user engagement. I thrive on solving challenging problems, learning new technologies, and turning innovative ideas into real-world applications.
+With hands-on experience in React, React Native, Tailwind CSS, Django, the MERN ecosystem, and dashboarding tools like Apache Superset and Looker Studio, I create seamless digital experiences that emphasize usability, performance, and clarity.
 
-When I’m not coding, I explore UI/UX trends, mobile development innovations, and open-source contributions to stay at the forefront of the tech world.
-
-💡 Core Skills: React | React Native | TailwindCSS | Django | MERN Stack | REST APIs | PostgreSQL | Mobile App Development
+I thrive on solving challenging problems, continuously learning new technologies, and transforming innovative ideas into real-world applications. Beyond coding, I actively explore UI/UX trends, mobile development advancements, analytics platforms, and open-source contributions to stay ahead in the evolving tech landscape.
 
 `;
 
