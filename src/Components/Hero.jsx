@@ -45,7 +45,7 @@ const Hero = () => {
 
                                 <img
                                     src={profile}
-                                    alt="Lokesh - Junior Fullstack Developer"
+                                    alt="Lokesh -  Junior Software Engineer"
                                     className="rounded-xl w-full max-w-md h-auto"
                                     width="400"
                                     height="400"
@@ -82,7 +82,7 @@ const Hero = () => {
                         >
                             <div className="inline-block bg-slate-900/60 backdrop-blur-sm border border-purple-500/30 rounded-lg px-6 py-3">
                                 <p className="text-lg lg:text-xl font-medium bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-                                    Junior Fullstack Developer @Socialbytes
+                                     Junior Software Engineer @Socialbytes
                                 </p>
                             </div>
                         </motion.div>

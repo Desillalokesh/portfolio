@@ -18,7 +18,7 @@ export const EDUCATION = [
   {
     institution: "Socialbytes",
     degree: "Software Engineer",
-    fieldOfStudy: "Junior Fullstack Developer",
+    fieldOfStudy: " Junior Software Engineer",
     duration: "2025",
    
   },
